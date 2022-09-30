@@ -1,0 +1,11 @@
+/runtime/cache
+/runtime/log
+/runtime/temp
+/public/uploads/*
+.idea
+*.log
+*.css.map
+!.gitkeep
+.env
+.svn
+.vscode
